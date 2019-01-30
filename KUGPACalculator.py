@@ -1,6 +1,7 @@
 # Grade point average calculator
 # Korea University grading system
 # Project 2
+# Auhor: Michael Jordan
 
 A_PLUS = 4.5
 A      = 4.0
@@ -12,7 +13,7 @@ D_PLUS = 1.5
 D   = 1
 F      = 0
 
-print("GPA calculator v1.0 under GNU license\n")
+print("GPA calculator v1.0")
 
 grade = input("Enter grade(Press enter to quit): ")
 
